@@ -20,43 +20,43 @@ Check it out live:
 All screenshots are stored in the `/public` folder. Here are some of the key pages:
 
 - **🏠 Home Page**  
-  ![Home](./client/public/home_hero.png)
+  ![Home](/public/home_hero.png)
 
 - **🏠 Home FAQ**  
-  ![Home || FAQ](./client/public/home_faq.png)
+  ![Home || FAQ](/public/home_faq.png)
 
 - **🏠 Home PRICINGe**  
-  ![Home](./client/public/home_pricing.png)
+  ![Home](/public/home_pricing.png)
 
 - **📋 Marathon List**  
-  ![MarathonList](./client/public/marathons.png)
+  ![MarathonList](/public/marathons.png)
 
 - **🔍 Marathon Detail Page**  
-  ![MarathonDetail](./client/public/marathon_details.png)
+  ![MarathonDetail](/public/marathon_details.png)
 
 - **🧾 Registration Page**  
-  ![Register](./client/public/register.png)
+  ![Register](/public/register.png)
 
 - **🧾 Login Page**  
-  ![Login](./client/public/login.png)
+  ![Login](/public/login.png)
 
 - **🧑‍💼 Profile Dashboard**  
-  ![Profile](./client/public/profile_page.png)
+  ![Profile](/public/profile_page.png)
 
 - **🧑‍💼 My Marathon List**  
-  ![My Marathon ](./client/public/dashboard_my_marathons.png)
+  ![My Marathon ](/public/dashboard_my_marathons.png)
 
 - **🧑‍💼 My Apply List**  
-  ![My Apply List](./client/public/dashboard_my_apply_list.png)
+  ![My Apply List](/public/dashboard_my_apply_list.png)
 
 - **🧑‍💼 Dashboard Add Marathon**  
-  ![Add Marathon](./client/public/dashboard_add_marathon.png)
+  ![Add Marathon](/public/dashboard_add_marathon.png)
 
 - **📬 Forgot Password Page**  
-  ![ForgotPassword](./client/public/forgotpassword.png)
+  ![ForgotPassword](/public/forgotpassword.png)
 
 - **🚫 404 Not Found**  
-  ![NotFound](./client/public/notfound.png)
+  ![NotFound](/public/notfound.png)
 
 
 ---
