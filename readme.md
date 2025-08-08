@@ -47,8 +47,8 @@
 ### 🖥️ Clone the Repo
 
 ```bash
-git clone https://github.com/rakibhasansohag/marathon-hub-fullstack.git
-cd marathon-hub-fullstack
+git clone https://github.com/rakibhasansohag/marathon-hub.git
+cd marathon-hub
 ```
 
 ---

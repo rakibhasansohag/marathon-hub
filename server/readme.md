@@ -20,8 +20,8 @@ This is the **backend server** for the **Marathon Hub** application, built using
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rakibhasansohag/marathon-hub-server.git
-cd marathon-hub-server
+git clone hhttps://github.com/rakibhasansohag/marathon-hub.git
+cd server
 ```
 
 ### 2. Install Dependencies

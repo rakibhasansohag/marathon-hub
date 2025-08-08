@@ -146,8 +146,9 @@ client/
 
 1. **Clone the client repository**:
    ```bash
-   git clone https://github.com/rakibhasansohag/MarathonHub-client
-   cd GardenHub-client
+   git clone https://github.com/rakibhasansohag/marathon-hub.git
+   cd marathon-hub
+   cd client
    ```
 
 2. **Install dependencies**:
