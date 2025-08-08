@@ -9,8 +9,8 @@ export default function TermsAndConditionsPage() {
 	const navigate = useNavigate();
 
 	return (
-		<section className='bg-gray-100 dark:bg-gray-900 min-h-screen'>
-			<div className='container mx-auto px-4 py-8 '>
+		<section className='section min-h-screen '>
+			<div className='container mx-auto not-[-webkit-overflow-scrolling]:py-8 '>
 				<Button variant='ghost' onClick={() => navigate(-1)} className='mb-6'>
 					<ChevronLeft className='mr-2 h-4 w-4' />
 					Back

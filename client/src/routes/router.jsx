@@ -17,6 +17,7 @@ import EditProfilePage from '../pages/Dashboard/Profile/EditProfilePage';
 import ForgotPassword from '../pages/ForgotPassword';
 import PrivateRoute from '../context/PrivateRoute';
 import TermsAndConditionsPage from '../pages/TermsAndCondition';
+import PrivacyPolicyPage from '../pages/PrivacyPlicy';
 
 const router = createBrowserRouter([
 	{
@@ -61,6 +62,10 @@ const router = createBrowserRouter([
 			{
 				path: '/terms-and-conditions',
 				Component: TermsAndConditionsPage,
+			},
+			{
+				path: '/privacy-policy',
+				Component: PrivacyPolicyPage,
 			},
 		],
 	},
