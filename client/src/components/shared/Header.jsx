@@ -75,7 +75,7 @@ export default function Header() {
 			));
 
 	return (
-		<header className='border-b sticky top-0 z-50 bg-background shadow-sm'>
+		<header className='border-b sticky top-0 z-50 bg-background'>
 			<div className='section flex items-center justify-between py-4 relative'>
 				{/* Left - Logo */}
 				<Link to='/' className='text-xl font-bold text-primary'>
