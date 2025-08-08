@@ -52,7 +52,7 @@ const Marathons = () => {
 	return (
 		<section className='bg-white dark:bg-gray-900'>
 			<div className='px-4 py-16 section '>
-				<h2 className='text-3xl font-bold mb-6 text-center'>
+				<h2 className='text-3xl font-bold mb-10 text-center'>
 					Featured Marathons
 				</h2>
 				<div className='grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 '>
