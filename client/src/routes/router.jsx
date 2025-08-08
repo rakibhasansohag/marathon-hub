@@ -18,6 +18,7 @@ import ForgotPassword from '../pages/ForgotPassword';
 import PrivateRoute from '../context/PrivateRoute';
 import TermsAndConditionsPage from '../pages/TermsAndCondition';
 import PrivacyPolicyPage from '../pages/PrivacyPlicy';
+import BlogPage from '../pages/Blog';
 
 const router = createBrowserRouter([
 	{
@@ -66,6 +67,10 @@ const router = createBrowserRouter([
 			{
 				path: '/privacy-policy',
 				Component: PrivacyPolicyPage,
+			},
+			{
+				path: '/blog',
+				Component: BlogPage,
 			},
 		],
 	},
