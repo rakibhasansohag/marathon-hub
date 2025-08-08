@@ -16,6 +16,7 @@ import ProfilePage from '../pages/Dashboard/Profile';
 import EditProfilePage from '../pages/Dashboard/Profile/EditProfilePage';
 import ForgotPassword from '../pages/ForgotPassword';
 import PrivateRoute from '../context/PrivateRoute';
+import TermsAndConditionsPage from '../pages/TermsAndCondition';
 
 const router = createBrowserRouter([
 	{
@@ -56,6 +57,10 @@ const router = createBrowserRouter([
 						<MarathonDetailsPage />,
 					</PrivateRoute>
 				),
+			},
+			{
+				path: '/terms-and-conditions',
+				Component: TermsAndConditionsPage,
 			},
 		],
 	},

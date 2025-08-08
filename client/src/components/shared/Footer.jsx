@@ -14,7 +14,7 @@ const Footer = () => {
 		{ name: 'Wa - 01760169982', to: 'https://wa.me/8801760169982' },
 	];
 
-	const terms = ['Terms of Service', 'Privacy Policy', 'Disclamier'];
+	const terms = ['terms-and-conditions', 'Privacy Policy', 'Disclamier'];
 
 	return (
 		<footer className='bg-background text-foreground py-12 border-t border-muted'>
@@ -91,7 +91,7 @@ const Footer = () => {
 							{terms.map((topic, index) => (
 								<li key={index}>
 									<Link
-										to={`/topics/${topic.toLowerCase()}`}
+										to={`/${topic.toLowerCase()}`}
 										className='block text-sm transition-transform hover:scale-105 hover:text-secondary'
 									>
 										{topic}
