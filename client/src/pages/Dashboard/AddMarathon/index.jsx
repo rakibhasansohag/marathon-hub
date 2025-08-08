@@ -78,8 +78,8 @@ const AddMarathon = () => {
 	};
 
 	return (
-		<section className='py-6 w-full'>
-			<Card className=' max-w-4xl mx-auto bg-white dark:bg-gray-800 md:p-8 rounded-2xl shadow-lg'>
+		<section className='py-6 w-full lg:pr-10 px-2'>
+			<Card className=' w-full mx-auto bg-white dark:bg-gray-800 md:p-8 rounded-2xl shadow-lg'>
 				<CardHeader>
 					<CardTitle className='text-4xl font-bold text-center text-primary'>
 						Add a Marathon Event

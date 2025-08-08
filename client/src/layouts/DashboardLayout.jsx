@@ -19,9 +19,6 @@ export default function DashboardLayout() {
 					</main>
 				</SidebarProvider>
 			</main>
-			<div className='absolute z-90 w-full'>
-				<Footer />
-			</div>
 		</section>
 	);
 }

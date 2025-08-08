@@ -40,7 +40,7 @@ const Footer = () => {
 							Quick Links
 						</h4>
 						<ul className='space-y-1'>
-							{['Home', 'Marathon', 'Blog', 'Contact'].map((page) => (
+							{['Home', 'Marathon', 'Blog'].map((page) => (
 								<li key={page}>
 									<NavLink
 										to={
